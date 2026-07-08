@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://meomeokji.netlify.app/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://meomeokji.netlify.app/posts.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://meomeokji.netlify.app/about.html</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://meomeokji.netlify.app/privacy.html</loc><changefreq>yearly</changefreq><priority>0.2</priority></url>
+  <url><loc>https://meomeokji.netlify.app/contact.html</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://meomeokji.netlify.app/posts/lunch-menu-best20.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://meomeokji.netlify.app/posts/dinner-menu-best20.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://meomeokji.netlify.app/posts/solo-lunch.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://meomeokji.netlify.app/posts/diet-lunch.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://meomeokji.netlify.app/posts/spicy-food.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://meomeokji.netlify.app/posts/hangover-food.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://meomeokji.netlify.app/posts/rainy-day-food.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://meomeokji.netlify.app/posts/summer-lunch.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://meomeokji.netlify.app/posts/winter-dinner.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://meomeokji.netlify.app/posts/company-dinner.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://meomeokji.netlify.app/posts/one-person-household-dinner.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://meomeokji.netlify.app/posts/budget-lunch.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://meomeokji.netlify.app/posts/menu-decision-tips.html</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://meomeokji.netlify.app/posts/cuisine-guide.html</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+</urlset>
